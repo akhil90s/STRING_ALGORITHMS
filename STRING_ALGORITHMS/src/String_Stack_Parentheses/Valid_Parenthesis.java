@@ -1,4 +1,4 @@
-package String_Stack;
+package String_Stack_Parentheses;
 
 import java.util.HashMap;
 import java.util.Map;
